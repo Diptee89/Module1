@@ -9,6 +9,8 @@ public class AnonymousArray {
 
 	public static void display(int m[]) {
 
+		for(int i:m)
+			System.out.println(i);
 	}
 
 }
