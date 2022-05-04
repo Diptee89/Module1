@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class DuplicateElement {
 
 	public static void main(String[] args) {
-		int[] arr = new int[] { 1, 23, 3, 4, 2, 8, 8, 3 };
+		int[] arr = new int[] { 1, 23, 3, 4, 2, 8, 8, 3,7 };
 
 		Arrays.sort(arr);
 		for (int m : arr) {
